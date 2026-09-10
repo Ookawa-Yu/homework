@@ -1,5 +1,5 @@
 # homework
-Why Are We Here?
+# Why Are We Here?
 
 In 2026, artificial intelligence can already generate working code from a sentence written in natural language, and this ability continues to improve rapidly. For designers and artists, learning programming may therefore seem increasingly unnecessary. If a machine can write the code for us, why should we spend time learning to do it ourselves? I believe that we are not learning programming to compete with AI over who can produce code faster. We are learning it to understand computation as a creative medium and to express our ideas through that medium with greater precision and control.
 
@@ -15,5 +15,5 @@ Learning programming, therefore, does not require us to reject the convenience o
 
 We are here because programming is more than the manual production of instructions. As Beattie demonstrates, code can become image, music, language, performance and play. AI may increasingly write those instructions for us, but this makes an understanding of the medium more important rather than less. Without that understanding, artists can request outputs but cannot fully examine or reshape the systems producing them. The most important question in the future may not be who can write the most code. It may be who can use code and AI while remaining in control of their imagination—and turn an original idea into something that did not exist before.
 
-# References:
+# References
 NDC Conferences. (2020, February 26). The Art of Code - Dylan Beattie [Video]. YouTube. https://www.youtube.com/watch?v=6avJHaC3C2U
